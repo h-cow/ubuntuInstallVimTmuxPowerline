@@ -1,4 +1,4 @@
 #!/bin/bash
-source ./.installPrograms.sh
-source ./.installSPF13.sh
-source ./.installConfig.sh
+. .installPrograms.sh
+. .installSPF13.sh
+. .installConfig.sh
